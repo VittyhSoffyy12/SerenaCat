@@ -26,7 +26,7 @@ Para utilizar a Serena, você concorda com os seguintes termos:
 ⚡ A equipe da Serena poderá revogar o acesso a qualquer momento em casos de violação.
 📝 Algumas funções podem ser alteradas ou removidas sem aviso prévio.
 
-✍️ O uso da Serena implica na aceitação das [Diretrizes da Serena](https://serenacat.code.blog/regras), dos termos em [Termos da SerenaCat](https://serenacat.code.blog/termos) e dos [Termos do Discord](https://discord.com/terms).
+✍️ O uso da Serena implica na aceitação das [Diretrizes da Serena](https://serenacat.code.blog/regras), dos termos em [Termos da Serena](https://serenacat.code.blog/termos) e dos [Termos do Discord](https://discord.com/terms).
 
 ---
 
