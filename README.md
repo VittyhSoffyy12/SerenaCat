@@ -1,55 +1,49 @@
-# 🌸 · Serena Bot
+# 🌸 • Serena-Bot!
 
-**Serena Cat** é uma bot poderosa e encantadora focada em **moderação** e **diversão**. Ela foi criada para oferecer uma experiência única de segurança e entretenimento. Está pronta para ser executada em **Termux** ou **VSCode**, oferecendo flexibilidade para os mais diversos ambientes!
+ฅ ฅ — **Serena Cat**, sua bot felina favorita para **moderação** e **diversão** no Discord! Focada em tornar seu servidor mais seguro e interativo, Serena é equipada com uma vários comandos seja fofos ou moderativos para administrar e entreter a sua comunidade.
 
----
+## — Funcionalidades!
 
-### 📂 Estrutura do Repositório:
-- **termux-bot/**: Código para rodar a bot no ambiente **Termux**.
-- **vscode-bot/**: Código para rodar a bot no ambiente **VSCode**.
+### 🚨 · Moderação
+- Funções moderativas inovadoras e completas 
 
----
+### 😸 · Diversão
+- Comandos interativos e sociais
+- APIs engraçadas e criativas  
+- Diversão para seu servidor!
 
-### 🛠️ Como usar:
-1. **Para Termux**:
-    - Clone o repositório:
-      ```bash
-      git clone https://github.com/vivicatlandia/serena-bot.git
-      cd serena-bot/termux-bot
-      ```
-    - Instale as dependências:
-      ```bash
-      npm install
-      ```
-    - Execute o bot:
-      ```bash
-      node bot.js
-      ```
-
-2. **Para VSCode**:
-    - Clone o repositório:
-      ```bash
-      git clone https://github.com/vivicatlandia/serena-bot.git
-      cd serena-bot/vscode-bot
-      ```
-    - Abra no **VSCode** e instale as dependências:
-      ```bash
-      npm install
-      ```
-    - Execute o bot:
-      ```bash
-      node bot.js
-      ```
+### 🎀 · Outros
+- Economia de servidor  
+- Alertas e automod eficiente
+- Utilidade leve e funções da bot  
 
 ---
 
-### 📜 Licença
+## 🧩 Feito com:
 
-Este repositório está licenciado sob os termos da **Licença de Uso da Serena**. O uso da bot é restrito a ambientes de **moderação** e **diversão**, conforme descrito nos **termos de uso** fornecidos no [site oficial da Serena](https://serena.code.blog).
-
-**⚠️ Proibido o uso da bot para fins de lucro ou para qualquer tipo de abuso.**  
-A Serena foi criada para fins de **entretenimento** e **moderação** em ambientes saudáveis e seguros.
+> **🟣 [Forgescript](https://botforge.org)** + **🟢 Node.js**  
+> Um projeto focado em fofura, diversão e com alma felina.
 
 ---
 
-✨ **Serena está aqui para garantir que seu ambiente seja mais organizado e divertido!** ✨
+## 🌷 • Suporte!
+
+— **Para dúvidas, ajuda ou sugestões, entre no servidor oficial da Serena:**
+[***Suporte da Serena***](https://discord.gg/XYT5KVN8jg)
+
+---
+
+## 🔗 • Links Importantes!
+
+- **Adicione Serena ao seu servidor:** [Link de convite](https://discord.com/oauth2/authorize?client_id=1050286281084653598)  
+- **Visite o Site Oficial:** https://serenacat.code.blog
+
+---
+
+## ❕ • Licença de contribuição
+
+Este projeto está licenciado sob a Licença MIT – veja o arquivo [LICENSE](LICENSE.md) para mais informações.
+
+---
+
+ㅤ♡ **Serena Cat** — Conte sempre com uma felina ao trabalho. 🐾✨
